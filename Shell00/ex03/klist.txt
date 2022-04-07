@@ -1,0 +1,5 @@
+Credentials cache: API:10E04B8E-DEE8-43F9-AE77-E1D93212AE28
+        Principal: sstyx@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jan 18 12:14:39 2021  Jan 18 22:14:39 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
