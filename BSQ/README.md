@@ -54,7 +54,7 @@ _____________________________________________________________
 ```
 Make
 ```
-[Скрипт](https://github.com/Mechnuna/BSQ/blob/master/maps.pl) для создания карты
+[Скрипт](https://github.com/Mechnuna/School-21-Ecole-42---piscine/blob/master/BSQ/maps.pl) для создания карты
 
 Использовать так:
 ```
